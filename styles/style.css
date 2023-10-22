@@ -1,0 +1,318 @@
+/* Estilo de index*/
+  * {
+    padding: 0%;
+    margin: 0%;
+    
+  }
+
+  .flex-container{
+    display: flex;
+    flex-direction: column;
+    flex-flow: column wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    
+
+    
+  }
+  
+
+  .card{
+    width: 550px;
+    border: 2px solid cornsilk;
+    border-radius: 0% 0% 2% 2%;
+    margin: 5px;
+
+  }
+
+  .card-o{
+    width: 500px;
+    border: 2px solid cornsilk;
+    border-radius: 2% 2% 2% 2%;
+    margin: 6px;
+
+  }
+  .card p,h2,h3,h4,h5{
+    text-align: center;
+    margin: 5px 3px;
+    
+  }
+
+
+
+  .img{
+
+    width: 450px;
+    height: 400px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+
+  }
+
+  .new{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+  }
+
+  .new-card{
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  header{
+    background-color: rgb(147, 132, 127);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+  }
+    
+
+body{
+  background-color: rgb(147, 132, 127) ;
+}
+
+  ul li{
+
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px;
+    padding-bottom: 20px;
+  }
+
+  .iframe-video{
+    display: flex;
+    margin: 15px 0%;
+    align-items: center;
+    
+
+    }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section {
+    list-style-type: none;
+}
+
+
+
+section {
+    background-color: rgb(147, 132, 127);
+}
+
+.fuentes h2 h3{
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+
+/* Estilo de Cleanning*/
+
+* Estilo de index*/
+  * {
+    padding: 0%;
+    margin: 0%;
+    
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section {
+    list-style-type: none;
+}
+
+
+section {
+    background-color: rgb(147, 132, 127);
+}
+
+.fuentes {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilo de Contacto*/
+* Estilo de index*/
+  * {
+    padding: 0%;
+    margin: 0%;
+    
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section {
+    list-style-type: none;
+}
+
+
+section {
+    background-color: rgb(147, 132, 127);
+}
+
+.fuentes {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+/* Estilo de iniciar sesion */
+/* Estilo de index*/
+* {
+    padding: 0%;
+    margin: 0%;
+    
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section {
+    list-style-type: none;
+}
+
+
+section {
+    background-color: rgb(147, 132, 127);
+}
+
+.fuentes {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+/* Estilo de Cleanning*/
+
+* Estilo de index*/
+  * {
+    padding: 0%;
+    margin: 0%;
+    
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section {
+    list-style-type: none;
+}
+
+
+section {
+    background-color: rgb(147, 132, 127);
+}
+
+.fuentes {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+
+/* Estilo de Contacto*/
+* Estilo de index*/
+  * {
+    padding: 0%;
+    margin: 0%;
+    
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+section {
+    list-style-type: none;
+}
+
+
+section {
+    background-color: rgb(147, 132, 127);
+}
+
+.fuentes {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+
+
+
+/* Estilo de Novedades*/
+
+
+
+/* Estilo de Oldschool*/
+
+.grid-container{
+  display:grid;
+  height: 120vh;
+  grid-template-rows: 90px auto 40px;
+  
+    }
+
+    .card-c{
+      width: 380px;
+      border: 1px solid cornsilk;
+      border-radius: 3% 3% 3% 3%;
+      margin: 6px;
+     
+  
+    }
+/* Estilo de umboxing*/
+
+
+
