@@ -312,6 +312,13 @@ section {
      
   
     }
+
+    section{
+
+      display: grid;
+      grid-template-columns: 
+      gap: 32px;
+    }
 /* Estilo de umboxing*/
 
 
